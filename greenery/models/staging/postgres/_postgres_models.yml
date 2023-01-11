@@ -2,4 +2,7 @@ version: 2
 
 models:
   - name: stg_users
-    description: Users
+    description: Table for users
+
+  - name: stg_orders
+    description: Table for orders
