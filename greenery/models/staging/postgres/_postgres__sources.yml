@@ -13,7 +13,7 @@ sources:
     tables:
       - name: users
 
-      - name: adresses
+      - name: addresses
 
       - name: promos
 

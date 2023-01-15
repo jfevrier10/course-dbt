@@ -6,3 +6,18 @@ models:
 
   - name: stg_orders
     description: Table for orders
+  
+  - name: stg_addresses
+    description: Staging table for addresses
+
+  - name: stg_promos
+    description: Staging table for promos
+
+  - name: stg_products
+    description: Staging table for products
+
+  - name: stg_order_items
+    description: Staging table for order items
+  
+  - name: stg_events
+    description: Staging table for events
