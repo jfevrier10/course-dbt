@@ -1,0 +1,10 @@
+version: 2
+
+models:
+
+- name: fact_events_conversion
+  description: "N/A"
+  columns:
+    - name: session_id
+    - name: user_id
+    - name: session_evt
