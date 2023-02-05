@@ -1,7 +1,7 @@
 with products as (
     select * from {{ ref ('stg_products') }}
 ),
-with events as (
+events as (
     select * from {{ ref ('stg_events') }}
 )
 
